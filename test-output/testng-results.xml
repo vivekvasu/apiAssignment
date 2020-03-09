@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="558484" started-at="2020-03-09T15:28:28Z" finished-at="2020-03-09T15:37:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="558484" started-at="2020-03-09T15:28:28Z" finished-at="2020-03-09T15:37:46Z">
+      <class name="automation.api.TestClass">
+        <test-method status="PASS" signature="compareAPITest()[pri:0, instance:automation.api.TestClass@5a63f509]" name="compareAPITest" duration-ms="558138" started-at="2020-03-09T15:28:28Z" finished-at="2020-03-09T15:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareAPITest -->
+      </class> <!-- automation.api.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
